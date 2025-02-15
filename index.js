@@ -1,5 +1,6 @@
-setTimeout(() => {
-    console.log("text");
-});
+// let a = 5;
+// console.log(global.a);
 
-console.log(global);
+
+console.log(__dirname);
+console.log(__filename);
